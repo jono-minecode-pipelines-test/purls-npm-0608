@@ -1,0 +1,56 @@
+{
+    "name": "007-calculator",
+    "version": "1.0.5",
+    "main": "./dir/main.js",
+    "bin": {
+        "007-calculator": "dir/main.js"
+    },
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/inquirer": "^9.0.3",
+        "@types/node": "^20.5.6"
+    },
+    "dependencies": {
+        "inquirer": "^9.2.10",
+        "node-banner": "^1.4.0"
+    },
+    "_id": "007-calculator@1.0.5",
+    "gitHead": "5a083a1a73e0a775100c88a9205db2309eeeb4c4",
+    "_nodeVersion": "19.8.1",
+    "_npmVersion": "9.8.0",
+    "dist": {
+        "integrity": "sha512-x63SKd0lE/goxP2Hu5YUpodFvaT+d69ZvzjCEE4xjc9X4xDlwIxb+K0/yNZ/ppNuf2OhrMJCH5tWVpEGtuqLlw==",
+        "shasum": "d77b1528b4e0d8d55a45cededc8d6ea47c2f796a",
+        "tarball": "https://registry.npmjs.org/007-calculator/-/007-calculator-1.0.5.tgz",
+        "fileCount": 17,
+        "unpackedSize": 17684,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCoYxst4juM5NTBvUUan7u9+kM6N0xleSENunQRfB1NWQIhALCSdmpjd/NSgUhyduGZv7nLCBlyT0Iz3mnJ7lLAeWcE"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "abdurrehman03",
+        "email": "abdurrahman988.ar@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "abdurrehman03",
+            "email": "abdurrahman988.ar@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/007-calculator_1.0.5_1692986559316_0.099688555860864"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,68 @@
+{
+    "name": "0000000r34api",
+    "version": "1.6.0",
+    "description": "<br>\r <br>",
+    "main": "index.js",
+    "scripts": {
+        "test": "test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Yokachi/r34.api.git"
+    },
+    "keywords": [
+        "api",
+        "hentai",
+        "hentai-api",
+        "nsfw",
+        "porn",
+        "porno",
+        "r34",
+        "rule34"
+    ],
+    "author": {
+        "name": "Yokachi"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Yokachi/r34.api/issues"
+    },
+    "homepage": "https://github.com/Yokachi/r34.api#readme",
+    "dependencies": {
+        "request": "^2.88.2",
+        "request-promise-native": "^1.0.9"
+    },
+    "_id": "0000000r34api@1.6.0",
+    "gitHead": "57eac67aed2da4833d3586167a5b8cf609eacf51",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.4.0",
+    "dist": {
+        "integrity": "sha512-KRZBk7of6ziRvfoa9lMHAh3j8ZZOllOq6zcXMtZb3rBOdo3YTZFhzFr/bs2QVnw0MWprFcMCWR0I6t80HxSZSw==",
+        "shasum": "4d231bdb2fc89b0c700a7e45c6a828d127998570",
+        "tarball": "https://registry.npmjs.org/0000000r34api/-/0000000r34api-1.6.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 1993,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIBqiiIpOo1Y4KEsti+ciwNTPcXrPD0BC6QpLjoHKFItbAiBQ/aclQqIQQe/5pCCNJC9fQlfP6enytZ1tpjG3bVMLqA=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "huhfg55555555",
+        "email": "uplink.drive.028@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "huhfg55555555",
+            "email": "uplink.drive.028@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0000000r34api_1.6.0_1708234901773_0.4068628690703835"
+    },
+    "_hasShrinkwrap": false
+}
